@@ -42,3 +42,4 @@ Throughout the course, you’ll engage in hands-on exercises and build real-worl
 - Some LLM services may require payment, but we’ll utilize free options whenever possible.
 
 - The views and opinions expressed here are my own and do not represent those of my employer.
+# genai-js
