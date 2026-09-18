@@ -43,3 +43,4 @@ Throughout the course, you’ll engage in hands-on exercises and build real-worl
 
 - The views and opinions expressed here are my own and do not represent those of my employer.
 # genai-js
+# genai-js
